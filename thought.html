@@ -293,9 +293,11 @@
 
     if (thoughtName) {
         // Fetch the markdown file
-        fetch('thoughts/' + thoughtName + '.md')
+        fetch(`/thoughts/${thoughtName}.md`)  // absolute path from repo root
             .then(response => {
-                if (!response.ok) throw new Error('Thought not found');
+                console.log('Fetch status:', response.status);
+                console.log('Fetch URL:', response.url);
+                if (!response.ok) throw new Error(`HTTP ${response.status}`);
                 return response.text();
             })
             .then(markdown => {
