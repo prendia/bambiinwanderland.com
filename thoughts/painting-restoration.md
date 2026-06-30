@@ -10,7 +10,7 @@ description: Exploring the idea behind holding space for an artist you'll never 
 
 ## Intro
 
-There is a fine art painting restorer and conservationist based in Chicago by the name Julian Baumgartner. They have a YouTube channel, [Baumgartner Restoration](https://youtube.com/@baumgartnerrestoration?si=pg-VJfRYZSK8tteI), in which they use specialist techniques to almost heal old, damaged artwork and provide protection for the art to survive into future generations.
+There's a fine art painting restorer and conservationist based in Chicago by the name Julian Baumgartner. They have a YouTube channel, [Baumgartner Restoration](https://youtube.com/@baumgartnerrestoration?si=pg-VJfRYZSK8tteI), in which they use specialist techniques to almost heal old, damaged artwork and provide protection for the art to survive into future generations.
 
 I find many of the videos very soothing. There's something about the restoration process that makes me reflect on my own life in many ways.
 

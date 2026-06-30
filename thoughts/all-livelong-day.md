@@ -7,7 +7,7 @@ description: Exploring the evolution of the phrase 'livelong day' in the progres
 ---
 # The Livelong Day
 
-Some days are pretty long.
+"What a bloody long day"
 
 Days where the passing of time feels full and whole and every minute feels like a lifetime. Time doesn’t pass so much as just accumulate with a slow drag. You want nothing more than for it to move, but the wanting only seems to slow it further.
 
