@@ -1,6 +1,6 @@
 ---
 category: history, language
-date: Friday 1st May 2026
+date: Fri 1st May 2026
 readTime: 20 minutes
 tags: history, etymology, society
 description: Exploring the evolution of the phrase 'livelong day' in the progression of society

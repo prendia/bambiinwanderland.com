@@ -1,6 +1,6 @@
 ---
 category: art, philosophy
-date: Saturday 7th March 2026
+date: Sat 7th Mar 2026
 readTime: 10 minutes
 tags: restoration, art, philosophy, creativity
 description: Exploring the idea behind holding space for an artist you'll never meet
